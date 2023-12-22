@@ -12,6 +12,7 @@ This collection features a diverse set of data and artificial intelligence (AI) 
 
 ## Table of Contents
 
+
 1. [Introduction](#introduction)
 2. [Notebook Categories](#notebook-categories)
 3. [How to Use](#how-to-use)
